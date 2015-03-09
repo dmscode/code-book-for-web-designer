@@ -14,18 +14,15 @@
 
 复制如下代码到这个新文档中。
 
-···html
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>Document</title>
-</head>
-<body>
-	
-</body>
-</html>
-···
+	<!doctype html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>Document</title>
+	</head>
+	<body>
+		
+	</body>
 
 于是我们得到了：
 
@@ -37,18 +34,16 @@
 
 现在我们再来看看这段代码，其实这只是一个最基础的 Html5 的网页结构。那么现在我来给它添加一些注释。
 
-···html
-<!doctype html>	<!-- 这行代码说明文档类型 -->
-<html lang="en">	<!-- <html>是标记 html 文档的开始，lang="en" 说明网页的语言是英文 -->
-<head>	<!-- <head>是标记网页头部信息的开始，这里主要放一些网页本身需要用到的信息 -->
-	<meta charset="UTF-8">	<!-- 这里说的是网页的编码是 UTF-8 -->
-	<title>Document</title>	<!-- 这里是网页的标题 -->
-</head>	<!-- </head>是标记网页头部信息的结束 -->
-<body>	<!-- <body>标记网页的主体内容（页面内容）的开始 -->
-	
-</body	><!-- </body>标记网页的主体内容（页面内容）的开始 -->
-</html	><!-- <html>是标记 html 文档的结束 -->
-···
+	<!doctype html>	<!-- 这行代码说明文档类型 -->
+	<html lang="en">	<!-- <html>是标记 html 文档的开始，lang="en" 说明网页的语言是英文 -->
+	<head>	<!-- <head>是标记网页头部信息的开始，这里主要放一些网页本身需要用到的信息 -->
+		<meta charset="UTF-8">	<!-- 这里说的是网页的编码是 UTF-8 -->
+		<title>Document</title>	<!-- 这里是网页的标题 -->
+	</head>	<!-- </head>是标记网页头部信息的结束 -->
+	<body>	<!-- <body>标记网页的主体内容（页面内容）的开始 -->
+		
+	</body	><!-- </body>标记网页的主体内容（页面内容）的开始 -->
+	</html	><!-- <html>是标记 html 文档的结束 -->
 
 看着都想睡觉了，是不是？我也是啊，好了，记得注释的格式就好。
 
@@ -56,18 +51,16 @@
 
 至于上面的那些内容，其实写页面之前先复制过去就好了，就好像刚开始学 Photoshop 的时候新建一个文档要设置什么颜色模式啊，分辨率啊……我们也是看不懂，所以索性不看，慢慢的也就明白了。嗯，我们来做点实际的事情吧！把代码稍微修改一下
 
-···html
-<!doctype html>
-<html lang="en">
-<head>
-	<meta charset="UTF-8">
-	<title>我要看看你显示在哪里？</title>
-</head>
-<body>
-	吼吼！我的第一个页面的说~
-</body>
-</html>
-···
+	<!doctype html>
+	<html lang="en">
+	<head>
+		<meta charset="UTF-8">
+		<title>我要看看你显示在哪里？</title>
+	</head>
+	<body>
+		吼吼！我的第一个页面的说~
+	</body>
+	</html>
 
 我就修改了两个地方，就是那两个汉字的地方，然后我们把这个文件保存为 Html 文档，比如叫做 FirstPage.html 好了，嗯，一定要保存在你找得到的地方哦，比如桌面就是个不错的地方。
 
