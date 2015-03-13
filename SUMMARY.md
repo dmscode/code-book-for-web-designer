@@ -6,4 +6,5 @@
 * [第三章 标记语言](chapter3.md)
 * [第四章 标记的属性](chapter4.md)
 * [第五章 半个标签](chapter5.md)
+* [第六章 表格也不复杂](chapter6.md)
 
