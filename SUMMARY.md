@@ -8,4 +8,5 @@
 * [第五章 半个标签](chapter5.md)
 * [第六章 表格也不复杂](chapter6.md)
 * [第七章 浅说表单](chapter7.md)
+* [第八章 常用标签](chapter8.md)
 
