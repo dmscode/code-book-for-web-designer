@@ -12,4 +12,6 @@
 * [第九章 Div 和 Class、Id](chapter9.md)
 * [第十章 神一样的 CSS](chapter10.md)
 * [第十一章 一些学习方法](chapter11.md)
+* [第十二章 css 的书写格式](chapter12.md)
+* [第十三章 相对地址](chapter13.md)
 
