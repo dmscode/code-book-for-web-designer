@@ -9,4 +9,7 @@
 * [第六章 表格也不复杂](chapter6.md)
 * [第七章 浅说表单](chapter7.md)
 * [第八章 常用标签](chapter8.md)
+* [第九章 Div 和 Class、Id](chapter9.md)
+* [第十章 神一样的 CSS](chapter10.md)
+* [第十一章 一些学习方法](chapter11.md)
 
