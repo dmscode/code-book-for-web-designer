@@ -20,6 +20,7 @@
 * [第十七章 导航（三）](chapter17.md)
 * [第十八章 导航（四）](chapter18.md)
 * [第十九章 导航（五）](chapter19.md)
-* [第二十章 海报（一））](chapter20.md)
-* [第二十一章 海报（二））](chapter21.md)
+* [第二十章 海报（一）](chapter20.md)
+* [第二十一章 海报（二）](chapter21.md)
+* [第二十二章 格子](chapter22.md)
 
