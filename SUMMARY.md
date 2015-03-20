@@ -25,4 +25,5 @@
 * [第二十二章 格子](chapter22.md)
 * [第二十三章 尾部](chapter23.md)
 * [第二十四章 审核元素](chapter24.md)
+* [第二十五章 随便聊聊](chapter25.md)
 
