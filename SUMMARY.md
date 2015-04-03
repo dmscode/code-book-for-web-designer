@@ -35,4 +35,8 @@
 * [第三十二章  一个图标](chapter32.md)
 * [第三十三章  两个图标](chapter33.md)
 * [第三十四章 继续说废话](chapter34.md)
+* [第三十五章 定位（一）](chapter35.md)
+* [第三十六章 定位（二）](chapter36.md)
+* [第三十七章 定位（三）](chapter37.md)
+* [第三十八章 定位（四）](chapter38.md)
 
