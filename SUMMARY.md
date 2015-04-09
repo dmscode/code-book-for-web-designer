@@ -39,8 +39,8 @@
 * [第三十六章 定位（二）](chapter36.md)
 * [第三十七章 定位（三）](chapter37.md)
 * [第三十八章 定位（四）](chapter38.md)
-* [第三十九章 网页自适应（一）](chapter38.md)
-* [第四十章 网页自适应（二）](chapter38.md)
-* [第四十一章 加点 JavaScript](chapter38.md)
-* [第四十二章 再说说 JQ](chapter38.md)
+* [第三十九章 网页自适应（一）](chapter39.md)
+* [第四十章 网页自适应（二）](chapter40.md)
+* [第四十一章 加点 JavaScript](chapter41.md)
+* [第四十二章 再说说 JQ](chapter42.md)
 
