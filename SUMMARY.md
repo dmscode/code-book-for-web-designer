@@ -43,4 +43,6 @@
 * [第四十章 网页自适应（二）](chapter40.md)
 * [第四十一章 加点 JavaScript](chapter41.md)
 * [第四十二章 再说说 JQ](chapter42.md)
+* [第四十三章 开始玩 JQ](chapter43.md)
+* [第四十四章 继续玩（一）](chapter44.md)
 
