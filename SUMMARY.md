@@ -45,4 +45,6 @@
 * [第四十二章 再说说 JQ](chapter42.md)
 * [第四十三章 开始玩 JQ](chapter43.md)
 * [第四十四章 继续玩（一）](chapter44.md)
+* [第四十五章 继续玩（二）](chapter45.md)
+* [第四十六章 继续玩（三）](chapter46.md)
 
