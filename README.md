@@ -1,6 +1,14 @@
 前言
 ===
 
+> 鉴于本人对此书满意度不够，现重新开坑：
+> **《代码能有多难？——简单的网页代码书》**
+> * 主站首发： http://coffee.zji.me/
+> * Gitbook: http://codeme.gitbooks.io/easy-web-code-book/
+> * 简书： http://www.jianshu.com/users/d37eaf3de0ff
+> * 站酷： http://www.zcool.com.cn/u/12927742
+> **感谢的大家的支持，我努力写的通俗易懂，也努力让错别字少一些，^-^**
+
 很多搞设计的只是作图，对于代码向来是瞥一眼就觉得是天书，因此再无兴趣。其实写个网页能有多难？
 
 也许比 Word 排版简单，至少在我，是坚持如此认为的。
